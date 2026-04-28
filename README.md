@@ -22,8 +22,8 @@ Atualmente, o foco está na **DQL (Data Query Language)**, onde desenvolvi queri
 Este é apenas o começo! O repositório será atualizado constantemente com:
 - [ X ] Queries de relacionamento entre tabelas (`INNER JOIN`, `LEFT JOIN`).
 - [ ] Criação de tabelas e inserção de dados (`DDL` e `DML`).
-- [ ] Resolução de novos conjuntos de exercícios práticos.
-- [ ] Documentação de boas práticas e otimização de consultas.
+- [ X ] Resolução de novos conjuntos de exercícios práticos.
+- [ X ] Documentação de boas práticas e otimização de consultas.
 
 ---
 
